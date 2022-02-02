@@ -1,0 +1,19 @@
+
+.parent{
+    height: 1000px;
+    background-color:rgb(0, 104, 130);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.child{
+    
+    height: 80px;
+    width: 80px;
+    background-color: red,orange,green,yellow;
+
+}
+.child1
+{
+    background-color: darkblue ;
+}
